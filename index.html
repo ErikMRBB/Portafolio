@@ -2,7 +2,7 @@
 <meta lang="es">
 <head>
     <title>Portafolio</title>
-    <link rel="stylesheet" href="portafolio.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <h1 align="left">Portafolio</h1>
