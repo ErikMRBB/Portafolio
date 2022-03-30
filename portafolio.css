@@ -1,0 +1,85 @@
+img {
+    text-align: left;
+    width: 250px;
+    height: 250px;
+  }
+  .imagen {
+	text-align: left;
+}
+
+.imagen img {
+	text-align: left;
+	display: inline-block;
+}
+.nombre {
+	text-align: left;
+}
+
+  .centrar-listas {
+	text-align: left;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+	text-align: left;
+	display: inline-block;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(219, 206, 206);
+}
+
+h1 {
+    color: #4300df;
+    font-size: 2em;
+    font-family: Georgia, 'Arial', Times, serif;
+    border-bottom: 10px solid rgb(0, 255, 0);
+}
+.Lenguajes-de-programación{
+    color: #4300df;
+    font-size: 2em;
+    font-family: Georgia, 'Arial', Times, serif;
+    border-bottom: 10px solid rgb(9, 255, 0);
+}
+h2 {
+    font-size: 1.5em;
+    color: #4300df;
+}
+h4 {
+    font-size: 0.9em;
+    color: #4300df;
+}
+h3 {
+    font-size: 1.5em;
+    color: #4300df;
+}
+p {
+    
+    color: #4300df;
+}
+
+.job-title {
+    font-size: 1em;
+    color: #1f00cc;
+    font-weight: bold;
+    border-top: purple 5px double;
+    border-right: purple 5px double;
+    border-bottom: purple 5px double;
+    border-left: purple 5px double;
+}
+
+a:link, a:visited {
+    color: #f500ac;
+}
+
+a:hover {
+    text-decoration: none;
+}
+ul {
+    color: #1f00cc;
+    
+}
+ol {
+    color: #1f00cc;
+    
+}
