@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<meta lang="es">
+<head>
+    <title>Portafolio</title>
+    <link rel="stylesheet" href="portafolio.css">
+</head>
+<body>
+    <h1 align="left">Portafolio</h1>
 
-You can use the [editor on GitHub](https://github.com/ErikMRBB/Portafolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 align="left" class="Nombre">
+    
+   Erik Octavio Mora Romo  
+       
+</h2>
+    <p class="imagen">
+        <img gr="center" src="foto.jpg">         
+           
+    </p>
+    <h3> About me: </h3>
+    <div class="centrar-listas"> 
+        <ul >
+        <li >  Experiencia en la industria electromecanica, alimenticia y automotriz</li>
+        <li >  Ingeniero en proceso</li>
+        <li>   Born: 03/04/99 </li>                 
+        <li>   Numero de serie: 18150071 </li>
+        <li>   Tipo de sangre: ARH+ </li>
+        <li>   Contactame al: 475581050</a></li>
+        <li>   o en el correo: erikromoislo.mo.ro@gmail.com</li>
+    </ul>
+</div>     
+<h3>Educación:</h3>
+<p class="Educación"> 
+    <ol>
+    <li >2005-2011 Escuela primaria 'Heroes de Chapultepec'</li>
+    <li> 2011-2014 Escuela secundaria 'Ramon Corona'</li>
+    <li> 2014-2017 Bachillerato tecnológico Cecytej</li>
+    <li> 2018-2022 Instituto Tecnologico de Aguascalientes</li>
+   
+</ol>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Experiencia:</h3>
+<p class="Experiencia en proyectos"> 
+    <ul >
+    <li > Controlador de motores electricos de manera simultanea a traves de un PLC</li>
+    <li>  Conexión y programación de robot industrial para tareas de ensamblaje</li>
+    <li>  Automatización de un sistema de elevador</li>
+    <li>  Automatización de un estacionamiento</li>
+    <li>  Automatización de un sistema de empaquetado de cd´s</li>
 
-### Markdown
+</ul>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</body>
+</html>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErikMRBB/Portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
